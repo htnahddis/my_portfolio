@@ -22,20 +22,20 @@ export const skillsUnsorted: skillsInterface[] = [
     rating: 5,
     icon: Icons.react,
   },
-  {
-    name: "GraphQL",
-    description:
-      "Fetch data precisely with a powerful query language for APIs and runtime execution.",
-    rating: 4,
-    icon: Icons.graphql,
-  },
-  {
-    name: "Nest.js",
-    description:
-      "Create scalable and modular applications with a progressive Node.js framework.",
-    rating: 4,
-    icon: Icons.nestjs,
-  },
+  // {
+  //   name: "GraphQL",
+  //   description:
+  //     "Fetch data precisely with a powerful query language for APIs and runtime execution.",
+  //   rating: 4,
+  //   icon: Icons.graphql,
+  // },
+  // {
+  //   name: "Nest.js",
+  //   description:
+  //     "Create scalable and modular applications with a progressive Node.js framework.",
+  //   rating: 4,
+  //   icon: Icons.nestjs,
+  // },
   {
     name: "express.js",
     description:
@@ -85,27 +85,27 @@ export const skillsUnsorted: skillsInterface[] = [
     rating: 4,
     icon: Icons.css3,
   },
-  {
-    name: "React Native",
-    description:
-      "Develop cross-platform mobile apps using React for consistent and engaging experiences.",
-    rating: 4,
-    icon: Icons.react,
-  },
-  {
-    name: "Angular",
-    description:
-      "Build dynamic web apps with a TypeScript-based open-source framework by Google.",
-    rating: 3,
-    icon: Icons.angular,
-  },
-  {
-    name: "Redux",
-    description:
-      "Manage app state effectively using a predictable and centralized state container.",
-    rating: 4,
-    icon: Icons.redux,
-  },
+  // {
+  //   name: "React Native",
+  //   description:
+  //     "Develop cross-platform mobile apps using React for consistent and engaging experiences.",
+  //   rating: 4,
+  //   icon: Icons.react,
+  // },
+  // {
+  //   name: "Angular",
+  //   description:
+  //     "Build dynamic web apps with a TypeScript-based open-source framework by Google.",
+  //   rating: 3,
+  //   icon: Icons.angular,
+  // },
+  // {
+  //   name: "Redux",
+  //   description:
+  //     "Manage app state effectively using a predictable and centralized state container.",
+  //   rating: 4,
+  //   icon: Icons.redux,
+  // },
   {
     name: "Socket.io",
     description:
@@ -128,13 +128,13 @@ export const skillsUnsorted: skillsInterface[] = [
     rating: 5,
     icon: Icons.tailwindcss,
   },
-  {
-    name: "AWS",
-    description:
-      "Utilize Amazon Web Services to build and deploy scalable, reliable, and secure applications.",
-    rating: 3,
-    icon: Icons.amazonaws,
-  },
+  // {
+  //   name: "AWS",
+  //   description:
+  //     "Utilize Amazon Web Services to build and deploy scalable, reliable, and secure applications.",
+  //   rating: 3,
+  //   icon: Icons.amazonaws,
+  // },
   {
     name: "Bootstrap",
     description:
@@ -150,9 +150,9 @@ export const skillsUnsorted: skillsInterface[] = [
     icon: Icons.mysql,
   },
   {
-    name: "Netlify",
+    name: "Android Studio",
     description:
-      "Manage and organize relational databases efficiently for data-driven applications.",
+      "Manage and organize codes on android studio.",
     rating: 4,
     icon: Icons.netlify,
   },
