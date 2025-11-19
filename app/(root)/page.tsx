@@ -100,7 +100,8 @@ export default function IndexPage() {
           </AnimatedText>
           <div className="mt-4 max-w-[42rem] text-center">
             <p className="leading-normal text-muted-foreground text-sm sm:text-base">
-              I'm a curious and adaptable learner with hands-on experience in web development, android, marketing, operations, and content creation. My journey so far has allowed me to explore both technical and creative domains; building frontend features, designing user interfaces, managing event promotions, engaging sponsors, and crafting social media content through video editing and storytelling.
+              I am a curious and adaptable learner with hands-on experience in web development, android, marketing, operations, and content creation. My journey so far has allowed me to explore both technical and creative domains; building frontend features, designing user interfaces, managing event promotions, engaging sponsors,
+              and crafting social media content through video editing and storytelling.
 
 
             </p>
