@@ -1,46 +1,31 @@
 export const siteConfig = {
-  name: "Siddhanth Chapade | Developer Portfolio",
+  name: "Siddhanth Chapade | Marketing, Strategy & Creative",
   authorName: "Siddhanth Chapade",
   username: "siddhanthchapade",
   description:
-    "This is a portfolio website",
-  url: "https://nbarkiya.xyz",
+    "Marketing, strategy, creative, analytics, and digital experiences by Siddhanth Chapade.",
+  url: "https://www.siddhanthchapade.com",
   links: {
-    
     github: "https://github.com/htnahddis",
+    linkedin: "https://www.linkedin.com/in/siddhanthchapade",
   },
-
-  ogImage: "https://res.cloudinary.com/dbfvcn3f6/image/upload/v1692357294/assets/naman-logo.png",
-
-  iconIco:
-    "https://res.cloudinary.com/dbfvcn3f6/image/upload/v1692357384/assets/naman-favicon.ico",
-
-  logoIcon:
-    "https://res.cloudinary.com/dbfvcn3f6/image/upload/v1692357294/assets/naman-logo.png",
-    
+  ogImage:
+    "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80",
+  iconIco: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=64&q=80",
+  logoIcon: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=64&q=80",
   keywords: [
     "Siddhanth Chapade",
-    "Full Stack Developer",
-    "Web Developer Portfolio",
-    "Next.js portfolio template",
-    "React portfolio template",
-    "Developer portfolio template",
-    "Portfolio website template",
-    "Next.js template",
-    "Modern portfolio website",
-    "Frontend developer portfolio",
-    "Full stack developer portfolio",
-    "Open source portfolio template",
-    "Web developer portfolio template",
-    "Responsive portfolio template",
-    "React.js portfolio",
-    "Tailwind CSS portfolio",
-    "Developer showcase template",
-    "Free portfolio template",
-    "Next.js 13 template",
-    "Shadcn UI template",
-    "Career timeline template",
-    "Portfolio with dark mode",
-    "GitHub portfolio template",
+    "Marketing strategist",
+    "Growth marketing",
+    "Creative strategist",
+    "Digital marketing",
+    "Brand strategy",
+    "Campaign strategy",
+    "Marketing portfolio",
+    "Product marketing",
+    "Analytics marketing",
+    "Creative marketing",
+    "Growth strategist",
+    "B.Tech AI ML",
   ],
 };
